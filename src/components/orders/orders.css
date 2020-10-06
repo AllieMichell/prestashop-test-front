@@ -1,0 +1,52 @@
+.background-head{
+    background-color: red;
+}
+.cardUsers {
+    width: 23vw;
+    height: 27vh;
+    margin: 2vh;
+    display: inline-block;
+}
+
+.media {
+    height: 20vh;
+}
+
+.center {
+    /* display: flex;  */
+    justify-content: center;
+    /* flex-direction: column; */
+    /* width: 50vh; */
+}
+
+.avatar {
+    margin: 15;
+}
+
+.orangeAvatar {
+    margin: 10;
+    color: #ffffff;
+    background-color: #d63200;
+}
+
+.purpleAvatar {
+    margin: 10; 
+    color:#ffffff; 
+    background-color: #1d0052
+}
+
+.deck {
+    display: flex; 
+    flex-wrap: wrap; 
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.title {
+    margin: 3vh;
+}
+
+.divider {
+    margin-top: 3vh; 
+    margin-bottom: 3vh;
+}
